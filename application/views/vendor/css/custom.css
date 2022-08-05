@@ -1,0 +1,89 @@
+.hidden{
+    /* Hide the text. */
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.konten {
+  margin-top: 80px;
+}
+
+.jumbotron {
+  height: 350px;
+  color: white;
+  background-color: #68a1fc;
+}
+
+.gbr {
+  width: 40%;
+  height: 160px;
+  margin: auto;
+  display: block;
+}
+
+.gbr-buku {
+  width: 100%;
+  height: 150px;
+}
+
+.gbr-buku-admin {
+  width: 150px;
+  height: 150px;
+}
+
+.gbr-profile {
+  width: 200px;
+  height: 200px;
+}
+
+.card-title p {
+  line-height: 10px;
+}
+
+.user {
+  overflow: hidden;
+  height: 350px;
+}
+
+.data-buku-peminjaman,
+.data-search-user {
+  position: absolute;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, .2);
+  width: 94%;
+  padding: 0;
+}
+
+.data-buku-peminjaman  p,
+.data-search-user p {
+  padding: 10px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.data-buku-peminjaman  p:hover,
+.data-search-user p:hover {
+  color: white;
+  background-color: #68a1fc;
+}
+
+@media (max-width: 768px) {
+  .jumbotron {
+    height: 250px;
+  }
+
+  .jumbotron h3 {
+    font-size: 20px;
+  }
+
+  .jumbotron p {
+    font-size: 15px;
+  }
+
+  .gbr {
+    width: 50%;
+    margin: -50px auto 0 auto;
+    display: block;
+  }
+}
