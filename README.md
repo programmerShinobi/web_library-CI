@@ -3,8 +3,15 @@
 
 ## Author
 CodeIgniter 3 Library Apps created by :
-
 - Github : <a href="https://github.com/programmerShinobi"> Faqih Pratama Muhti | programmerShinobi </a>
+
+## Feature 
+- Verify Email Users
+- Login Authentication
+- REST API IMDB Movies
+- REAST API Google Book
+- Live Chat
+- CRUD Library System
 
 ## User
 **Admin**
