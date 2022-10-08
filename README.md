@@ -1,4 +1,6 @@
 <h1 align="center">CodeIgniter 3 - Library Apps</h1>
+<hr>
+<p>Library Application - Regional Library & Archives Office of Karawang Regency</p>
 
 ## Author
 CodeIgniter 3 Library Apps created by :
