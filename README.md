@@ -1,29 +1,29 @@
-# README #
+<h1 align="center">CodeIgniter 3 Library Apps</h1>
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Author
+CodeIgniter 3 Library Apps created by :
 
-### What is this repository for? ###
+- Github : <a href="https://github.com/programmerShinobi"> Faqih Pratama Muhti | programmerShinobi </a>
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## User
+**Admin**
+- Email     : admin
+- Password  : admin
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Run This Apps
+- Download the master branch in terminal
+  ``` 
+  git clone git@github.com:programmerShinobi/web_library-CI.git
+  ```
+- Create database name : db_library
+- Run in web browser
+  ```
+  http://localhost:8000/web_library/
+  ```
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## If you have some suggestion ||~
+Just Contact Me At :
+- Email     : <a href="mailto:faqihpratamamuhti@gmail.com">faqihpratamamuhti@gmail.com</a>
+- LinkedIn  : <a href="https://www.linkedin.com/in/faqih-pratama-muhti-9a75a2130/">Faqih Pratama Muhti</a>
