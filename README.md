@@ -1,4 +1,4 @@
-<h1 align="center">CodeIgniter 3 Library Apps</h1>
+<h1 align="center">CodeIgniter 3 - Library Apps</h1>
 
 ## Author
 CodeIgniter 3 Library Apps created by :
